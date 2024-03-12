@@ -640,7 +640,7 @@
                 </div>
                 <div class="st-portfolio-item-hover">
                   <i class="fas fa-plus-circle"></i>
-                  <h5>Product Design</h5>
+                  <h5>In House Design</h5>
                   <p>Design / Marketing</p>
                 </div>
               </a>
