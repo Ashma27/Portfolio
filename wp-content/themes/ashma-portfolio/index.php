@@ -650,15 +650,15 @@
         <div class="col-lg-4 col-md-6">
           <div class="st-portfolio-single st-style1 st-lightgallery">
             <div class="st-portfolio-item">
-              <a href="assets/img/portfolio/portfolio2_lg.jpg" class="st-portfolio st-zoom st-lightbox-item">
-                <div class="st-portfolio-img st-zoom-in">
+              <a href="https://ashma27.github.io/cashpad/" target="_blank" class="st-portfolio">
+                <div class="st-portfolio-img">
                   <img src="<?php echo get_parent_theme_file_uri(
-                      '/assets/img/portfolio/portfolio2.jpg'
+                      '/assets/img/portfolio/cashpad-Home.png'
                   ); ?>" alt="portfolio">
                 </div>
                 <div class="st-portfolio-item-hover">
                   <i class="fas fa-plus-circle"></i>
-                  <h5>Product Design</h5>
+                  <h5>Cashpad</h5>
                   <p>Design / Marketing</p>
                 </div>
               </a>
@@ -668,15 +668,51 @@
         <div class="col-lg-4 col-md-6">
           <div class="st-portfolio-single st-style1 st-lightgallery">
             <div class="st-portfolio-item">
-              <a href="assets/img/portfolio/portfolio3_lg.jpg" class="st-portfolio st-zoom st-lightbox-item">
-                <div class="st-portfolio-img st-zoom-in">
+              <a href="https://ashma27.github.io/edelweiss/"  target="_blank" class="st-portfolio">
+                <div class="st-portfolio-img">
                   <img src="<?php echo get_parent_theme_file_uri(
-                      '/assets/img/portfolio/portfolio3.jpg'
+                      '/assets/img/portfolio/edelweiss.png'
                   ); ?>" alt="portfolio">
                 </div>
                 <div class="st-portfolio-item-hover">
                   <i class="fas fa-plus-circle"></i>
-                  <h5>Product Design</h5>
+                  <h5>Edelweiss</h5>
+                  <p>Design / Marketing</p>
+                </div>
+              </a>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-4 col-md-6">
+          <div class="st-portfolio-single st-style1 st-lightgallery">
+            <div class="st-portfolio-item">
+              <a href="https://ashma27.github.io/slipkode/"  target="_blank" class="st-portfolio  ">
+                <div class="st-portfolio-img">
+                  <img src="<?php echo get_parent_theme_file_uri(
+                      '/assets/img/portfolio/slipkode.png'
+                  ); ?>" alt="portfolio">
+                </div>
+                <div class="st-portfolio-item-hover">
+                  <i class="fas fa-plus-circle"></i>
+                  <h5>Slipkode</h5>
+                  <p>Design / Marketing</p>
+                </div>
+              </a>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-4 col-md-6">
+          <div class="st-portfolio-single st-style1 st-lightgallery">
+            <div class="st-portfolio-item">
+              <a href="https://ashma27.github.io/bet/"  target="_blank" class="st-portfolio  ">
+                <div class="st-portfolio-img">
+                  <img src="<?php echo get_parent_theme_file_uri(
+                      '/assets/img/portfolio/bet.png'
+                  ); ?>" alt="portfolio">
+                </div>
+                <div class="st-portfolio-item-hover">
+                  <i class="fas fa-plus-circle"></i>
+                  <h5>Bet Accumulator Tips</h5>
                   <p>Design / Marketing</p>
                 </div>
               </a>
