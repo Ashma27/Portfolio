@@ -10,6 +10,9 @@
   <meta http-equiv="x-ua-compatible" content="ie=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="author" content="Laralink">
+  <meta http-equiv='cache-control' content='no-cache'> 
+<meta http-equiv='expires' content='0'> 
+<meta http-equiv='pragma' content='no-cache'>
   <!-- Page Title -->
   <title>Ashma - Portfolio</title>
   <!-- Favicon Icon -->
